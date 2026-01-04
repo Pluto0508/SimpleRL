@@ -38,15 +38,13 @@ Note: My project have default game implemented on each algorithm, if you want to
 - It's comming soon !
 
 # Install Packages
-'''
+···
 pip install -r requirements.txt
-'''
+···
 
 # Run A Sample
-'''
+···
 cd simplerl
-'''
-'''
 python run.py --ppo
-'''
+···
 
